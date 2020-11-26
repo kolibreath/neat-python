@@ -1,2 +1,2 @@
 # Todo 
-- [] implement user-define fitness criterion
+- [ ] implement user-define fitness criterion
